@@ -1,0 +1,20 @@
+# Networkwalks Week 2 – Module 2
+
+## GHDB: Mathematics PDF Search Findings
+
+**Google Search Query:** `filetype:pdf mathematics`
+
+| No. | PDF Title | Website/Domain |
+| --- | --- | --- |
+| 1 | Everyday Uses of Mathematics and the Roles… | scienceworldjournal.org |
+| 2 | Encyclopedia of Mathematics | institutes.abu.edu.ng |
+| 3 | Mathematics in Society Development – A Study | irejournals.com |
+| 4 | Mathematics Education | files.eric.ed.gov |
+| 5 | What Is Mathematics About? | blackwellpublishing.com |
+| 6 | History and Epistemology in Mathematics Education | mathunion.org |
+| 7 | Everything You Always Wanted to Know About Mathematics | math.cmu.edu |
+| 8 | What is Mathematics? | mathscitech.org |
+| 9 | \[Courant, Robbins\] What Is Mathematics? | cimat.mx |
+| 10 | Mathematics | depedbohol.org |
+
+**Total results identified:** 10

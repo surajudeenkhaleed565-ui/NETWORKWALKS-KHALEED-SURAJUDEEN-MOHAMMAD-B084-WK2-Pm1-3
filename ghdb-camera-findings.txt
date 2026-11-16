@@ -1,0 +1,18 @@
+vvvvvvvv# Networkwalks Week 2 – Module 2
+## GHDB: Security Camera Search Findings
+
+**Source:** Exploit Database – Google Hacking Database
+
+**Search term:** camera
+
+**Camera-related entries observed:**
+1. Toshiba Network Camera
+2. NoVus IP Camera
+3. Device IP Camera
+4. Network Camera
+5. Real-time IP Camera Monitoring System
+6. Camera login pages
+7. DCIM camera directory
+8. IP camera login page
+9. Microseven M7CAM IP Camera
+10. Foscam Real-time IP Camera Monitoring System

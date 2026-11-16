@@ -1,0 +1,20 @@
+# Networkwalks Week 2 – Module 3
+## Maltego Email Investigation
+
+**Target domain:** networkwalks.com
+
+**Tool used:** Maltego Graph Desktop 4.14.0
+
+**Investigation:** Email addresses from Domain transform.
+
+**Transform status:** Completed successfully.
+
+**Credits consumed:** 1
+
+**Credits remaining:** 195
+
+**Observation:** The transform completed, but no email-address entities appeared in the graph.
+
+**Conclusion:** No email addresses were returned by this particular transform during the investigation.
+
+**Evidence:** 01-email-transform-result.png
